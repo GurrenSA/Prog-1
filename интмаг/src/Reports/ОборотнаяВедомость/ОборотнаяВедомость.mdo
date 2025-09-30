@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1580df72-54be-4c1b-8a20-28a60b5985d0">
+  <producedTypes>
+    <objectType typeId="d837ed1e-b376-438b-8b87-ee1ed2f0e461" valueTypeId="7d1f55a5-8886-4ac0-86f7-1ec73b052d46"/>
+    <managerType typeId="b6a8b304-1aa7-49ed-ab68-30c111732ffa" valueTypeId="ee2bf2a7-6c76-4541-aa83-db4e3be5d91e"/>
+  </producedTypes>
+  <name>ОборотнаяВедомость</name>
+  <synonym>
+    <key>ru</key>
+    <value>Оборотная ведомость</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:Report>

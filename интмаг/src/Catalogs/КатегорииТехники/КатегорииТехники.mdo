@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4d9710b3-3721-4a42-9e42-f167ca6fd97f">
+  <producedTypes>
+    <objectType typeId="666a1537-b462-4ba8-abb1-f8ebc020373a" valueTypeId="5f32cce8-e80b-4394-bd4b-49d53696b0b0"/>
+    <refType typeId="2f2044ab-984a-4645-a217-2be0fdceea3f" valueTypeId="c4648b0f-959b-4d9e-8f03-c11d9a791526"/>
+    <selectionType typeId="d68e7a79-512c-44b0-a5b8-d28041662a75" valueTypeId="5bd00036-770f-491a-a17f-f47bfa808551"/>
+    <listType typeId="3210da04-9b02-4a08-a9d5-00c68fb3d795" valueTypeId="ec4a9b9a-9034-48b1-95d2-2a359065b4b6"/>
+    <managerType typeId="d29aa268-5af2-4481-80c8-31a11cc484b6" valueTypeId="1bf0ffd8-9b32-46b4-8fc4-ba53e0baa7b9"/>
+  </producedTypes>
+  <name>КатегорииТехники</name>
+  <synonym>
+    <key>ru</key>
+    <value>Категории техники</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.КатегорииТехники.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.КатегорииТехники.StandardAttribute.Code</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <hierarchical>true</hierarchical>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
